@@ -1,7 +1,7 @@
 # Resin_Calculator
 
 
-This app can estimate the amount of resin using for any chemicalc, industrial and artistic purposes.
+This app can estimate the amount of resin consumption for any chemical, industrial and artistic purposes.
 
 
 
